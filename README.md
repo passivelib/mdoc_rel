@@ -1,2 +1,2 @@
 # MDOC
-Version: 1.0.0s
+Version: 1.0.1
